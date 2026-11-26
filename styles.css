@@ -302,6 +302,15 @@ section { padding: 56px 0; }
 }
 .coming-note strong { color: var(--emerald-bright); }
 
+/* ---------- Radio ---------- */
+
+.radio { background: var(--obsidian); color: var(--ivory); }
+.radio h2 { color: var(--ivory); }
+.radio .section-lede { color: var(--ivory-dim); }
+.radio .video-links a { color: var(--emerald-bright); }
+.radio-player { width: 100%; max-width: 560px; margin: 24px 0 16px; }
+.radio-player audio { width: 100%; }
+
 /* ---------- After Dark ---------- */
 
 .after-dark { background: #14140F; color: var(--ivory); }
